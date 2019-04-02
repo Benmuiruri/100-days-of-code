@@ -1,30 +1,18 @@
 # 100 Days Of Code - Log
+Hi, I'm Haley! Welcome to my #100daysofcode journey. I am a self-taught Front-end web developer in the making. 😁💻
 
-### Day 0: February 30, 2016 (Example 1)
-##### (delete me or comment me out)
+An important note to mention before I start with my first day on Github: I had already started the #100daysofcode challenge on Twitter. And as of April 2nd, 2019 I am at Day 11. However, it occurred to me that posting brief tweets about my daily progress would not help me reflect properly on what I've learned and what I've struggled with. I find this crucial to when lessons become more complicated (i.e when Javascript and its frameworks are introduced). Since I already push my projects to Github, I thought I might as well fork the famous existing repository and log my progress here everyday. Currently, I am becoming more comfortable with HTML and CSS. My learning sources are:
+1. freeCodeCamp: I am currently finishing the Responsive Web Design projects on freeCodeCamp.
+2. [The Complete 2019 Web Development Bootcamp by Angela Yu (Udemy)](https://www.udemy.com/the-complete-web-development-bootcamp/): I currently paused at Javascript (I haven't started it), I will once I receive the first certificate from freeCodeCamp.
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+I will continue with the old count on twitter only. For details about my progress in the last 10 days, check out my [twitter](https://twitter.com/haley_dvlpr) account (Pinned tweet). Let's start this challenge!
 
-**Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+### Day 1: April 2, 2019
+##### (freeCodeCamp - Responsive Web Design Projects - Build a Technical Documentation Page)
 
-**Link to work:** [Calculator App](http://www.example.com)
+**Today's Progress**: Filled the HTML Skeleton. Nothing more. Actually, it was more challenging than doing main CSS styles and breakpoints, because finding content was challenging. You don't want random irrelevant paragraphs, but you also don't have the time to include all the little details of the documentation you're trying to mock (in my case, C#). I salute the people who work on technical documentation. It was my first time ever including <code>code</code> element in my HTML.
 
-### Day 0: February 30, 2016 (Example 2)
-##### (delete me or comment me out)
+**Thoughts:** No big struggle. But it took a while to simplify and shed off alot of content. 
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Link to work:** [haley-dvlpr/FCC-Technical-Documentation](https://github.com/haley-dvlpr/FCC-Technical-Documentation)
 
-**Thoughts**: I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
-
-**Link(s) to work**: [Calculator App](http://www.example.com)
-
-
-### Day 1: June 27, Monday
-
-**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
-
-**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
-
-**Link(s) to work**
-1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
