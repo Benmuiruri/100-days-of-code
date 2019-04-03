@@ -2,7 +2,7 @@
 Hi, I'm Haley! Welcome to my #100daysofcode journey. I am a self-taught Front-end web developer in the making. 😁💻
 
 An important note to mention before I start with my first day on Github: I had already started the #100daysofcode challenge on Twitter. And as of April 2nd, 2019 I am at Day 11. However, it occurred to me that posting brief tweets about my daily progress would not help me reflect properly on what I've learned and what I've struggled with. I find this crucial to when the lessons become more complicated (i.e when Javascript and its frameworks are introduced). Since I already push my projects to Github, I thought I might as well fork the famous existing repository and log my progress here everyday. Currently, I am becoming more comfortable with HTML and CSS. My learning sources are:
-1. freeCodeCamp: I am currently finishing the Responsive Web Design projects on freeCodeCamp.
+1. freeCodeCamp: I am currently finishing the Responsive Web Design projects.
 2. [The Complete 2019 Web Development Bootcamp by Angela Yu (Udemy)](https://www.udemy.com/the-complete-web-development-bootcamp/): I currently paused at Javascript (I haven't started it), I will once I receive the first certificate from freeCodeCamp.
 
 I will continue with the old count on twitter only. For details about my progress in the last 10 days, check out my [twitter](https://twitter.com/haley_dvlpr) account (Pinned tweet). Let's start this challenge!
