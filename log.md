@@ -14,5 +14,15 @@ I will continue with the old count on twitter only. For details about my progres
 
 **Thoughts:** No big struggle. But it took a while to simplify and shed off alot of content. 
 
-**Link to work:** [haley-dvlpr/FCC-Technical-Documentation](https://github.com/haley-dvlpr/FCC-Technical-Documentation)
+**Link to work:** [Codepen.io](https://codepen.io/haley-dvlpr/pen/bJEpEX)
 
+### Day 2: April 3, 2019
+##### (freeCodeCamp - Responsive Web Design Projects - Build a Technical Documentation Page: COMPLETED)
+
+**Today's Progress**: So this was easy, and I liked the dark theme with the touch of pink. I found two pseudo class selectors helpful today like <code>:not(:last-child)</code> and <code>:first-child</code>. I also learned about the <code><pre></code> element **(by accident, lol)**, and I wrapped my <code><code></code> inside it because I wanted to group multiple code lines and style them as one big <code><code></code> element. The <code>pre</code> element apparently shows the whitespace in the HTML doc by default. So according to this [post](https://stackoverflow.com/questions/31753617/how-can-i-remove-leading-whitespace-in-my-pre-code-block-without-removing-in), you can remove the whitespace by adding: <code>white-space: normal;</code>.
+
+**Thoughts:** I don't think the way the code is arranged inside <code><pre></code> is right, **but**, given that I don't know C# (yet), I didn't look for extensions that could take care of that.
+
+**Links to completed work:** 
+[Github Page](https://haley-dvlpr.github.io/FCC-Technical-Documentation/)
+[Codepen.io](https://codepen.io/haley-dvlpr/pen/bJEpEX)
