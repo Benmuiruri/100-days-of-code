@@ -21,7 +21,7 @@ I will continue with the old count on twitter only. For details about my progres
 
 **Today's Progress**: So this was easy, and I liked the dark theme with the touch of pink. I found two pseudo class selectors useful today like <code>:not(:last-child)</code> and <code>:first-child</code>. I also learned about the pre element **(by accident, lol)**, and I wrapped my code inside it because I wanted to group multiple code lines and style them as one big <code>code</code> element. The pre element apparently shows the whitespace in the HTML doc by default. So according to this [Stackoverflow post](https://stackoverflow.com/questions/31753617/how-can-i-remove-leading-whitespace-in-my-pre-code-block-without-removing-in), whitespace can be removed by adding this property: <code>white-space: normal;</code>. So I did that.
 
-**Thoughts:** I don't think the way the code is arranged inside pre is right, **but**, given that I don't know C# (yet), I didn't look for extensions that could take care of that.
+**Thoughts:** I guess the code arrangement and syntax highlighting can definitely use a fix, **but**, given that I don't know C# (yet), I didn't look for extensions that could take care of that. Too soon.
 
 **Links to completed work:**   
 [Github Page](https://haley-dvlpr.github.io/FCC-Technical-Documentation/)  
