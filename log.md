@@ -24,5 +24,5 @@ I will continue with the old count on twitter only. For details about my progres
 **Thoughts:** I don't think the way the code is arranged inside pre is right, **but**, given that I don't know C# (yet), I didn't look for extensions that could take care of that.
 
 **Links to completed work:** 
-[Github Page](https://haley-dvlpr.github.io/FCC-Technical-Documentation/)
+[Github Page](https://haley-dvlpr.github.io/FCC-Technical-Documentation/)  
 [Codepen.io](https://codepen.io/haley-dvlpr/pen/bJEpEX)
