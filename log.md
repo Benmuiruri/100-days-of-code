@@ -26,3 +26,16 @@ I will continue with the old count on twitter only. For details about my progres
 **Links to completed work:**   
 [Github Page](https://haley-dvlpr.github.io/FCC-Technical-Documentation/)  
 [Codepen.io](https://codepen.io/haley-dvlpr/pen/bJEpEX)
+
+### Day 3: April 4, 2019
+##### (freeCodeCamp - Responsive Web Design Projects - Build a Personal Portfolio Webpage)
+
+**Today's Progress**: Today I spent about 2 hours just looking for that perfect portfolio layout/design. I guess I'm stressing about it being perfect and looking professional, even though I'm technically a web dev newbie. I also realized that I'm pretty sure I want to do UI/UX + Front end development. I'm interested in learning about interaction design and enhancing users' accessibility and satisfaction. Anyway, back to the portfolio. I barely wrote any code. Just a skeleton. Not even going to refer to its link but it's there in my repositories section. Here are some of the portfolio ideas that I liked so far:
+
+![portfolio sample](https://res.cloudinary.com/dzqqlj7am/image/upload/v1554415097/22.png)
+
+![portfolio sample](https://res.cloudinary.com/dzqqlj7am/image/upload/v1554415097/24.png)
+
+![portfolio sample](https://res.cloudinary.com/dzqqlj7am/image/upload/v1554415097/20.png)
+
+I very much hope I figure out and finalize my portfolio's design by tomorrow afternoon. Can't wait for that FCC Responsive Web Design completion certificate!
