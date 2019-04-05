@@ -47,6 +47,6 @@ I very much hope I figure out and finalize my portfolio's design by tomorrow aft
 
 ![portfolio sample](https://res.cloudinary.com/dzqqlj7am/image/upload/v1554492203/63.png)
 
-**Link to page (Let me know what you think):** [Github Page](https://haley-dvlpr.github.io/Portfolio-Page/)
+**Link to work (Let me know what you think):** [Github Page](https://haley-dvlpr.github.io/Portfolio-Page/)
 
 
