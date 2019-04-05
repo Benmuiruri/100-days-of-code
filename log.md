@@ -39,3 +39,16 @@ I will continue with the old count on twitter only. For details about my progres
 ![portfolio sample](https://res.cloudinary.com/dzqqlj7am/image/upload/v1554415097/20.png)
 
 I very much hope I figure out and finalize my portfolio's design by tomorrow afternoon. Can't wait for that FCC Responsive Web Design completion certificate!
+
+### Day 4: April 5, 2019
+##### (freeCodeCamp - Responsive Web Design Projects - Build a Personal Portfolio Webpage)
+
+**Today's Progress**: I created the front part of my portfolio. With a bit of animation (when the page is loaded). I'm trying to go for a minimalistic design here. I still didn't write the About Me section. I'm also thinking about adding a scroll up transition from the welcome section to About Me. Anyway, this is what I have for now:
+
+![portfolio sample](https://res.cloudinary.com/dzqqlj7am/image/upload/v1554492203/63.png)
+
+**Link to page (Let me know what you think):**
+
+[Github Page](https://haley-dvlpr.github.io/Portfolio-Page/)
+
+
