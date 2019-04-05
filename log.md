@@ -43,7 +43,7 @@ I very much hope I figure out and finalize my portfolio's design by tomorrow aft
 ### Day 4: April 5, 2019
 ##### (freeCodeCamp - Responsive Web Design Projects - Build a Personal Portfolio Webpage)
 
-**Today's Progress**: I created the front part of my portfolio, with a bit of animation. I'm trying to go for a minimalistic design here. Still didn't write the About Me section. Also I'm thinking about adding a scroll up transition (btw is that what they call it?) from the welcome section to the About Me. Anyway, this is what I have so far (minus responsive):
+**Today's Progress**: I created the front part of my portfolio, with a bit of animation. I'm trying to go for a minimalistic design here. Still didn't write the About Me section. Also I'm thinking about adding a scroll up transition (btw is that what they call it?) from the welcome section to the About Me. Anyway, this is what I have so far (minus media query):
 
 ![portfolio sample](https://res.cloudinary.com/dzqqlj7am/image/upload/v1554492203/63.png)
 
