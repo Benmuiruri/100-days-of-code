@@ -55,3 +55,15 @@ I very much hope I figure out and finalize my portfolio's design by tomorrow aft
 **Today's Progress**: I'm taking too long on this one, eh? Well, I've been busy.. with life. I got to attend a Women Techmakers event today (yay!), it was a great networking opportunity. I'm very tired and sleepy and I'm trying to present my 4 portfolio projects in a nice 2x2 grid. Using <code> display: grid; </code> was tricky. So I set the template using<code>grid-template-columns: repeat(2, 1fr);</code>. I need to know how I can clearly assign rows... unless it's somehow automatic (??). I'm also open to using flexbox, but I also want to control number of items per row. I think I'll have to introduce <code>calc()</code> property. Will definitely search on Youtube about the best method for my 2x2. Hoping to finalize my portfolio tomorrow.
 
 **Link to work**: I'd rather not? It's a mess. 🙈
+.
+### Day 5: April 7, 2019
+##### (freeCodeCamp - Responsive Web Design Projects - Build a Personal Portfolio Webpage: COMPLETED)
+
+**Today's Progress:** I'm done! I didn't feel the time but it was so worth every minute and every leg cramp lol. I started out by fixing the grid (yes I finally decided on grid). Followed a guy's tutorial on YouTube and it worked! I chose grid over flexbox because the latter is one-dimentional, so having a 2x2 will require nested divs (or so I think?). I have only ONE big breakpoint, and it ends at iPad Pro (so anything less than 1024px will be considered a phone/tablet lol). Reason is, I wanted to make my css shorter and simplifed because honestly I don't have much content in my portfolio anyway. I'll revisit it however, as I continue to work on projects 😉. Also, I spent so much time fixing typos, and being confused about smooth animated scrolling. I tried to do it with jQuery but for some reason the smooth part was just not happening. So I just added <code>html { scroll-behavior: smooth; }</code>, which did the trick. If I had known that such property existed, I wouldn't have spent 2 hours trying to make the scrolltop animate thing on JS work. But I guess that's going to be brought up soon anyway. Last but not least, Codepen's viewport is smaller than the actual browser viewport size (duh!), so I kept getting 11/12 score on my portfolio. It said my welcome-section height isn't equal to the viewport height. For some reason it kept ignoring my <code>height: 100vh;</code> 😑 So I set <code>min-height: 262px;</code>, and adjusted the 100vh to become the max-height. So yeah that was about it, got my certificate. Feeling great! 
+
+![fcc-certificate](https://res.cloudinary.com/dzqqlj7am/image/upload/v1554687222/Responsive_Design_Certificate.png)
+![codepen-test](https://res.cloudinary.com/dzqqlj7am/image/upload/v1554687307/89.png)
+
+**Link to work:**   
+[Codepen](https://codepen.io/haley-dvlpr/pen/qwaVrx),  
+[Github Page](https://haley-dvlpr.github.io/Portfolio-Page/).
