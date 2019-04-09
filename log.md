@@ -72,3 +72,8 @@ I very much hope I figure out and finalize my portfolio's design by tomorrow aft
 ##### (freeCodeCamp - Javascript Algorithms And Data Structures Certification - Introduction to Javascript)
 
 **Today's Progress:** Today was slow and quiet. I started with Js lessons on freeCodeCamp. I wanted to start with the Js section in the [Udemy course that I'm taking](https://www.udemy.com/the-complete-web-development-bootcamp/) as well, but I just **did not feel the audio-visual learner** in me today. So I skimmed through examples on freeCodeCamp and (strangely enough) the syntax and logic reminded me of Python. I took few Python tutorials couple of months ago and I found Python amazing. But I just don't see yet where I could apply it; knowing that I'm mainly interested in Front End. I prefer to dedicate my time to Js for now. Once I'm well-acquainted with Front-End languages, libraries and frameworks, I'll think about Python. 
+
+### Day 8: April 9, 2019
+##### [(The Complete 2019 Web Development Bootcamp)](https://www.udemy.com/the-complete-web-development-bootcamp/) 
+
+**Today's Progress:** Watched lectures 1)Introduction to Javascript 2)Javascript Alerts - Adding Behaviour to Websites 3)Data Types. Got to see a new side of developer tools on Chrome (Console). 99% of today's content was theory. But I hope I'll work on practical examples tomorrow. 🤷‍♀️🙆‍♀️
