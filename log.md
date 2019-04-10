@@ -77,3 +77,10 @@ I very much hope I figure out and finalize my portfolio's design by tomorrow aft
 ##### [(The Complete 2019 Web Development Bootcamp)](https://www.udemy.com/the-complete-web-development-bootcamp/) 
 
 **Today's Progress:** Watched lectures 1)Introduction to Javascript 2)Javascript Alerts - Adding Behaviour to Websites 3)Data Types. Got to see a new side of developer tools on Chrome (Console). 99% of today's content was theory. But I hope I'll work on practical examples tomorrow. 🤷‍♀️🙆‍♀️
+
+### Day 9: April 10, 2019
+#####  [(The Complete 2019 Web Development Bootcamp)](https://www.udemy.com/the-complete-web-development-bootcamp/) + Random ES6 YouTube tutorials 
+
+**Today's Progress:** Today was part theory (as in watching lessons from the Udemy course), and part applying random cool tutorial from Youtube 😉💻😁. One interesting idea was to generate a customized welcome message based on time/hour (i.e. Good morning, Good day, etc). I found out for the first time that you **REALLY CAN** create elements inside the html body using javascript!! So today was about creating an h1 element. I think I want to use this on my portfolio, you know, just to customize my greeting a bit. Hence, I create a repository especially for this, so I can add more to it each time. I wonder if I can assign to it an existing class, that would be terrific! Also in my case I'd like to concatenate it with an existing h1 element, rather than creating an entirely new one.
+
+**Link to work:**[Dynamic Welcoming Message](https://github.com/haley-dvlpr/Dynamic-Welcome-Message/tree/master/Dynamic%20Welcoming%20Message)
