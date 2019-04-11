@@ -81,7 +81,7 @@ I very much hope I figure out and finalize my portfolio's design by tomorrow aft
 ### Day 9: April 10, 2019
 #####  [(The Complete 2019 Web Development Bootcamp)](https://www.udemy.com/the-complete-web-development-bootcamp/) + Random ES6 YouTube tutorial
 
-**Today's Progress:** Today was part theory (as in lessons from the Udemy course), and part applying random cool tutorial from Youtube 😉💻😁. One interesting idea was to generate a customized welcome message based on time/hour (i.e. Good morning, Good day, etc), **just like the [Momentum extension](https://chrome.google.com/webstore/detail/momentum/laookkfknpbbblfpciffpaejjkokdgca) for Chrome (my favorite To Do app next to [Trello](https://trello.com/))! **
+**Today's Progress:** Today was part theory (as in lessons from the Udemy course), and part applying random cool tutorial from Youtube 😉💻😁. One interesting idea was to generate a customized welcome message based on time/hour (i.e. Good morning, Good day, etc), just like the [Momentum extension](https://chrome.google.com/webstore/detail/momentum/laookkfknpbbblfpciffpaejjkokdgca) for Chrome (my favorite To Do app next to [Trello](https://trello.com/))! 
 
 I found out -for the first time- that you **REALLY CAN** create elements inside the html body using javascript!! So today was about creating an h1 element. I think I want to use this on my portfolio, you know, just to customize my greeting a bit. Hence, I create a repository especially for this, so I can add more to it each time. I wonder if I can assign to it an existing class, that would be terrific! Also in my case I'd like to concatenate it with an existing h1 element, rather than creating an entirely new one.  
 
@@ -91,3 +91,18 @@ Oh, and I learned how to add snippets in the Sources tab inside Chrome Developer
 ![prompt 2](https://res.cloudinary.com/dzqqlj7am/image/upload/v1554930224/hs2.png)
 
 **Link to work:** [Dynamic Welcoming Message](https://github.com/haley-dvlpr/Dynamic-Welcome-Message/tree/master/Dynamic%20Welcoming%20Message)
+
+
+### Day 9: April 10, 2019
+##### freeCodeCamp - Basic Javascript
+
+**Today's Progress:** I tried to quickly cover some lessons from the curriculum today. I've been busy this entire week and honestly I don't feel that I'm focused 😥. Got family visiting from home, helping prep for a women's tech conference (😉 which is exciting!) AND hanging out with my sister who took a week off from work 🙄. Yeah, this file was not meant for rants, I know. But I managed to do 30 minutes today (which kind of breaks the rules of the challenge?) But to be fair on most days I dedicate 3+ hrs a day, sometimes it can reach 12 hrs with debugging.  
+ 
+**Here's what I covered today:**
+Escaping Literal Quotes in Strings
+Quoting Strings with Single Quotes
+Escape Sequences in Strings
+Concatenating Strings with Plus Operator
+Concatenating Strings with the Plus Equals Operator
+Constructing Strings with Variables
+Appending Variables to Strings
