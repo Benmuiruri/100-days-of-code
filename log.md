@@ -93,7 +93,7 @@ Oh, and I learned how to add snippets in the Sources tab inside Chrome Developer
 **Link to work:** [Dynamic Welcoming Message](https://github.com/haley-dvlpr/Dynamic-Welcome-Message/tree/master/Dynamic%20Welcoming%20Message)
 
 
-### Day 9: April 10, 2019
+### Day 10: April 11, 2019
 ##### freeCodeCamp - Basic Javascript
 
 **Today's Progress:** I tried to quickly cover some lessons from the curriculum today. I've been busy this entire week and honestly I don't feel that I'm focused 😥. Got family visiting from home, helping prep for a women's tech conference (😉 which is exciting!) AND hanging out with my sister who took a week off from work 🙄. Yeah, this file was not meant for rants, I know. But I managed to do 30 minutes today (which kind of breaks the rules of the challenge?) But to be fair on most days I dedicate 3+ hrs a day, sometimes it can reach 12 hrs with debugging.  
