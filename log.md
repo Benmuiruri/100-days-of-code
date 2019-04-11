@@ -99,10 +99,10 @@ Oh, and I learned how to add snippets in the Sources tab inside Chrome Developer
 **Today's Progress:** I tried to quickly cover some lessons from the curriculum today. I've been busy this entire week and honestly I don't feel that I'm focused 😥. Got family visiting from home, helping prep for a women's tech conference (😉 which is exciting!) AND hanging out with my sister who took a week off from work 🙄. Yeah, this file was not meant for rants, I know. But I managed to do 30 minutes today (which kind of breaks the rules of the challenge?) But to be fair on most days I dedicate 3+ hrs a day, sometimes it can reach 12 hrs with debugging.  
  
 **Here's what I covered today:**
-Escaping Literal Quotes in Strings
-Quoting Strings with Single Quotes
-Escape Sequences in Strings
-Concatenating Strings with Plus Operator
-Concatenating Strings with the Plus Equals Operator
-Constructing Strings with Variables
-Appending Variables to Strings
+Escaping Literal Quotes in Strings  
+Quoting Strings with Single Quotes  
+Escape Sequences in Strings  
+Concatenating Strings with Plus Operator  
+Concatenating Strings with the Plus Equals Operator  
+Constructing Strings with Variables  
+Appending Variables to Strings  
