@@ -113,4 +113,10 @@ Appending Variables to Strings
 
 **Today's Progress:** Learned about string lengths (retrieving number of characters), slicing strings, changing string casing, and lastly basic arithmetic operations in Javascript. I also did interesting exercises, such as how to capitalize user's name (given through prompt). So, if I type in "halima", "hALIMA" or even "HALIMA", it would still give me an alert of "Hi, Halima!". This was a combination of slice, uppercase and lowercase methods. I also did a prompt exercise where you'd enter your dog's age, and it would give you back its age in human years. I then came up with a conversion formula for lovebirds (since I'm a lovebirds mommy). Turns out, my lutino lovebired (Ponyo) is 7 years old, while my green lovebird (Kiwi) is around 2 years old in human age. WOW. 
 
+### Day 12: April 13, 2019
+#####  freeCodeCamp - Basic Javascript
+
+**Today's Progress:** I didn't dedicate adequate time for coding today y'all so much is going on, starting a new job + recent previous rants above. I only practiced few bracket notation and concatenation lessons to keep up with the Udemy course. So yesterday it was about referring to character index inside a method's brackets, this time it was getting the value of string character by <code>firstNameFirstLetter = firstname[0];</code>. I don't know if Udemy's instructor was going to cover that but it was good to know. Anyway I'll try to finish basic JS section tomorrow🥺💪🏽💻 Peace✌🏽
+
+
 
