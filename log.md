@@ -118,5 +118,30 @@ Appending Variables to Strings
 
 **Today's Progress:** I didn't dedicate adequate time for coding today y'all so much is going on, starting a new job + recent previous rants above. I only practiced few bracket notation and concatenation lessons to keep up with the Udemy course. So yesterday it was about referring to character index inside a method's brackets, this time it was getting the value of string character by <code>firstNameFirstLetter = firstname[0];</code>. I don't know if Udemy's instructor was going to cover that but it was good to know. Anyway I'll try to finish basic JS section tomorrow🥺💪🏽💻 Peace✌🏽
 
+### Day 13: April 14, 2019
+##### freeCodeCamp - Basic Javascript 
+
+**Today's Progress:** I liked how FCC is concerned about the ethics of coding. Like (for example) this was so cool: "There shouldn't be any spaces between the array name and the square brackets, like <code>array [0][0]</code> and even this <code>array [0] [0]</code> is not allowed. Although JavaScript is able to process this correctly, this may confuse other programmers reading your code". Great tips for practicing coding professionally! I covered a good number of lessons today, surprisingly; the section is actually long (who was I kidding when I said I'll finish it today?). Oh and then it took me a while to wrap my head around some of the lessons/new information. Here's the highlight of what I learned today:  
+
+- The word "function" used to scare me back when I knew nothing about ES6. Functions are our friends, they help us write reusable code. (I mean isn't that what functions do, mainly, in all programming languages?🤦‍♀️).  
+  
+- Parameters (inside functions) are variables..  <code>
+function testFun(param1, param2) {  
+  console.log(param1, param2);  
+}</code>
+  
+- Variables which are declared within a function, as well as the function parameters, have local scope. That means, they are only visible within that function. Variables outside the function have global scope.  
+  
+- It is possible to have both local and global variables with the same name. When you do this, the local variable takes precedence over the global variable.  
+
+- I don't get the use of the <code>return</code> statement, like why not just declare... wait no I think I get it now. Nvm. 
+
+- I searched about mutable and non-mutable data types, [cool MDN quick tip here](https://developer.mozilla.org/en-US/docs/Glossary/Mutable).  
+
+That's about it. I cannot wait for this week to be over. But I'm also busy the week after. And the one after that. I hope I can at least wrap up the lessons (aside from projects) by this month. Fingers crossed.
+
+
+
+
 
 
