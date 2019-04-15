@@ -151,7 +151,7 @@ That's about it. I cannot wait for this week to be over. But I'm also busy the w
 ![stand in line exercise](https://res.cloudinary.com/dzqqlj7am/image/upload/v1555365602/stand_inline.png)  
 - Understanding Boolean Values | True! (get it ;D ?)
 - Use Conditional Logic with If Statements 
-- Comparison with the Equality Operator | Okayyy so I didn't know type coersion could happen inside the condition. Interesting.  
+- Comparison with the Equality Operator | Okayyy so I didn't know type coercion could take place inside the condition. Interesting.  
 
 ![equality operator](https://res.cloudinary.com/dzqqlj7am/image/upload/v1555364167/fcc_coersion.png)  
 - Comparison with the Strict Equality Operator | I'm placing select photos in my daily logs so that I keep these rules in mind btw.  
