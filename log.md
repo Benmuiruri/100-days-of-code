@@ -141,7 +141,28 @@ function testFun(param1, param2) {
 That's about it. I cannot wait for this week to be over. But I'm also busy the week after. And the one after that. I hope I can at least wrap up the lessons (aside from projects) by this month. Fingers crossed.
 
 
+### Day 14: April 15, 2019
+##### freeCodeCamp - Basic Javascript
 
+**Today's Progress:** Topics covered:  
+- Understanding Undefined Value returned from a Function | This happens when you don't use a return statement within the function, nor declare a variable or assign a value to it.
+- Stand in Line | The problem statement was a bit confusing, and mind you, I've encountered this issue with fcc lessons on numerous occasions. That being said, the solution was extremely easy. This has certainly something to do with that JSON thing (which I haven't learned yet but had previously worked with - do not ask how 🤣).
+![stand in line exercise](https://res.cloudinary.com/dzqqlj7am/image/upload/v1555364168/fcc.png)
+- Understanding Boolean Values | True! (get it ;D ?)
+- Use Conditional Logic with If Statements 
+- Comparison with the Equality Operator | Okayyy so I didn't know type coersion could happen inside the condition. Interesting.
+![equality operator](https://res.cloudinary.com/dzqqlj7am/image/upload/v1555364167/fcc_coersion.png)
+- Comparison with the Strict Equality Operator | I'm placing select photos in my daily logs so that I keep these rules in mind btw.
+![strict equality operator](https://res.cloudinary.com/dzqqlj7am/image/upload/v1555365092/fcc.png)
+
+**Other Highlights:**  
+- We can take the return value of a function and assign it to a variable.
+- Comparison Operators: Note that equality is different from assignment (=), which assigns the value at the right of the operator to a variable in the left.
+
+**Useful Links:**  
+- [JavaScript type coercion explained](https://medium.freecodecamp.org/js-type-coercion-explained-27ba3d9a2839)
+- [What exactly is Type Coercion in Javascript?](https://stackoverflow.com/questions/19915688/what-exactly-is-type-coercion-in-javascript)
+- [9 Ways to Remove Elements From A JavaScript Array](https://love2dev.com/blog/javascript-remove-from-array/)
 
 
 
