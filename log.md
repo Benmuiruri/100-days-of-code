@@ -168,4 +168,20 @@ That's about it. I cannot wait for this week to be over. But I'm also busy the w
 - [9 Ways to Remove Elements From A JavaScript Array](https://love2dev.com/blog/javascript-remove-from-array/)
 
 
+### Day 15: April 16, 2019
+##### freeCodeCamp - Basic Javascript
 
+**Today's Progress:** Topics covered:  
+- Practice comparing different values  
+- Comparison with the Inequality Operator  
+- Comparison with the Strict Inequality Operator  
+- Comparison with the Greater Than Operator  
+- Comparison with the Greater Than Or Equal To Operator  
+- Comparison with the Less Than Operator  
+- Comparison with the Less Than Or Equal To Operator  
+- Comparisons with the Logical And Operator  
+- Comparisons with the Logical Or Operator  
+- Introducing Else Statements  
+- Introducing Else If Statements  .
+
+**Comments:** Great refersher for concepts covered in school IT class.
