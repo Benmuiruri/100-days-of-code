@@ -185,3 +185,16 @@ That's about it. I cannot wait for this week to be over. But I'm also busy the w
 - Introducing Else If Statements  .
 
 **Comments:** Great refersher for concepts covered in school IT class.
+
+### Day 16: April 17, 2019
+##### freeCodeCamp - Basic Javascript 
+
+**Today's Progress:**
+- Logical Order in If Else Statements
+- Chaining If Else Statements
+- Golf Code
+- Selecting from Many Options with Switch Statements
+- Adding a Default Option in Switch Statements
+
+**Highlights:** <code>case</code> values are tested with strict equality <code>(===)</code>. The break tells JavaScript to stop executing statements. If the <code>break</code> is omitted, the next statement will be executed. Also, <code>default</code> is the equivalent of <code>else if</code>.
+
