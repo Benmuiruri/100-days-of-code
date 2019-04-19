@@ -198,3 +198,51 @@ That's about it. I cannot wait for this week to be over. But I'm also busy the w
 
 **Highlights:** <code>case</code> values are tested with strict equality <code>(===)</code>. The break tells JavaScript to stop executing statements. If the <code>break</code> is omitted, the next statement will be executed. Also, <code>default</code> is the equivalent of <code>else if</code>.
 
+### Day 17: April 18, 2019 + Day 18: April 19, 2019
+##### freeCodeCamp - Basic Javascript 
+
+**Two days Progress**: 
+
+I've been so busy and multitasking as we near the conference (tomorrow!) I still have few more lessons to finish up. And to be honest I didn't do external work but I watched few videos about object/nested objects/nested arrays... etc. I was a bit confused. 
+
+- Multiple Identical Options in Switch Statements
+- Replacing If Else Chains with Switch
+- Returning Boolean Values from Functions
+- Return Early Pattern for Functions
+- Counting Cards
+- Build JavaScript Objects
+- Accessing Object Properties with Dot Notation
+- Accessing Object Properties with Bracket Notation
+- Accessing Object Properties with Variables
+- Updating Object Properties
+- Add New Properties to a JavaScript Object
+- Delete Properties from a JavaScript Object
+- Using Objects for Lookups
+- Testing Objects for Properties
+
+**Highlights:** 
+
+- When a return statement is reached, the execution of the current function stops and control returns to the calling location.
+- Objects: If your object has any non-string properties, JavaScript will automatically typecast them as strings.
+There are two ways to access the properties of an object: dot notation (.) and bracket notation ([]), similar to an array.
+- Object properties: There are two ways to access the properties of an object: dot notation (.) and bracket notation ([]), similar to an array.
+<code>
+var myObj = {
+  prop1: "val1",
+  prop2: "val2"
+};
+ var prop1val = myObj.prop1; // val1
+ var prop2val = myObj.prop2; // val2
+</code>
+- If the property of the object you are trying to access has a space in its name, you will need to use bracket notation.
+- We can use the .hasOwnProperty(propname) method of objects to determine if that object has the given property name. 
+- JavaScript Object Notation or JSON is a related data interchange format used to store data.
+- Manipulating Complex Objects
+- Accessing Nested Objects
+
+There was one thing that didn't make sense to me:
+
+[1](https://res.cloudinary.com/dzqqlj7am/image/upload/v1555706609/objects2.png)
+[2](https://res.cloudinary.com/dzqqlj7am/image/upload/v1555707120/%D8%AE%D9%84%D8%A7%D8%AA%D8%AB%D8%A4%D9%81.png)
+
+The solution's index should be 2 in my opinion. 
