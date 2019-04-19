@@ -242,7 +242,8 @@ var prop2val = myObj.prop2; // val2
 
 There was one thing that didn't make sense to me:
 
-[1](https://res.cloudinary.com/dzqqlj7am/image/upload/v1555706609/objects2.png)
-[2](https://res.cloudinary.com/dzqqlj7am/image/upload/v1555707120/%D8%AE%D9%84%D8%A7%D8%AA%D8%AB%D8%A4%D9%81.png)
+![1](https://res.cloudinary.com/dzqqlj7am/image/upload/v1555706609/objects2.png)
+![2](https://res.cloudinary.com/dzqqlj7am/image/upload/v1555707120/%D8%AE%D9%84%D8%A7%D8%AA%D8%AB%D8%A4%D9%81.png)
 
-The solution's index should be 2 in my opinion. 
+
+Ok I completely forgot how index counting goes in programming languages lol.. I kept thinking that the index referred in the above example should be 2 (as second)... I forgot that index counting always starts with 0.
