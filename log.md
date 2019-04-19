@@ -231,8 +231,8 @@ var myObj = {
   prop1: "val1",
   prop2: "val2"
 };
- var prop1val = myObj.prop1; // val1
- var prop2val = myObj.prop2; // val2
+var prop1val = myObj.prop1; // val1
+var prop2val = myObj.prop2; // val2
 </code>
 - If the property of the object you are trying to access has a space in its name, you will need to use bracket notation.
 - We can use the .hasOwnProperty(propname) method of objects to determine if that object has the given property name. 
