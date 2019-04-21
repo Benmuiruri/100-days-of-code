@@ -247,3 +247,32 @@ There was one thing that didn't make sense to me:
 
 
 Ok I completely forgot how index counting goes in programming languages lol.. I kept thinking that the index referred in the above example should be 2 (as second)... I forgot that index counting always starts with 0.
+
+
+### Day 19: April 18, 2019 + Day 20: April 20 - 21, 2019
+##### freeCodeCamp - Basic Javascript 
+
+**Two days Progress**: 
+
+Manipulating Complex Objects  
+Accessing Nested Objects  
+Accessing Nested Arrays  
+Record Collection  
+Iterate with JavaScript While Loops  
+Iterate with JavaScript For Loops  
+Iterate Odd Numbers With a For Loop  
+Count Backwards With a For Loop  
+Iterate Through an Array with a For Loop  
+Nesting For Loops  
+Iterate with JavaScript Do...While Loops  
+Profile Lookup  
+Generate Random Fractions with JavaScript  
+Generate Random Whole Numbers with JavaScript  
+Generate Random Whole Numbers within a Range  
+Use the parseInt Function  
+Use the parseInt Function with a Radix  
+Use the Conditional (Ternary) Operator  
+Use Multiple Conditional (Ternary) Operators  
+
+**Highlights**: Definitely want to revisit Radix and that record collection exercise.  
+Now that I finished JS basics, I will go back to the Udemy course for more examples and trying to understand from another's perspective.
