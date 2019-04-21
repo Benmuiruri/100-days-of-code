@@ -250,7 +250,7 @@ Ok I completely forgot how index counting goes in programming languages lol.. I 
 
 
 ### Day 19: April 18, 2019 + Day 20: April 20 - 21, 2019
-##### freeCodeCamp - Basic Javascript 
+##### freeCodeCamp - Basic Javascript - Completed
 
 **Two days Progress**: 
 
