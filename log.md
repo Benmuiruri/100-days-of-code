@@ -249,7 +249,7 @@ There was one thing that didn't make sense to me:
 Ok I completely forgot how index counting goes in programming languages lol.. I kept thinking that the index referred in the above example should be 2 (as second)... I forgot that index counting always starts with 0.
 
 
-### Day 19: April 18, 2019 + Day 20: April 20 - 21, 2019
+### Day 19: April 20, 2019 + Day 20: April 21, 2019
 ##### freeCodeCamp - Basic Javascript - Completed
 
 **Two days Progress**: 
@@ -276,3 +276,10 @@ Use Multiple Conditional (Ternary) Operators
 
 **Highlights**: Definitely want to revisit Radix and that record collection exercise.  
 Now that I finished JS basics, I will go back to the Udemy course for more examples and trying to understand from another's perspective.
+
+### Day 21: April 22, 2019 + Day 22: April 23 - 21, 2019
+##### freeCodeCamp - ES6 +  [(The Complete 2019 Web Development Bootcamp)](https://www.udemy.com/the-complete-web-development-bootcamp/)
+
+**Two days Progress**:  
+I haven't covered much... but I learned about let vs. var declaration types. And on the Udemy side, the ES6 chapter is more of basics of Javascript. So I got the chance to revisit some important concepts. I'll definitely try to find a mini-project for Js by this weekend. Ciao!
+
