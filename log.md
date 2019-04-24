@@ -25,14 +25,14 @@ And that is basically my story. So starting today, this log will contain my dail
 
 
 
-### Day 1: April 2, 2019
-##### (freeCodeCamp - Responsive Web Design Projects - Build a Technical Documentation Page)
+### Day 1: April 24, 2019
+##### (freeCodeCamp - Responsive Web Design Projects - Build a Tribute page)
 
-**Today's Progress**: Filled the HTML Skeleton. Nothing more. Actually, it was more challenging than doing main CSS styles and breakpoints, because finding content was challenging. You don't want random irrelevant paragraphs, but you also don't have the time to include all the little details of the documentation you're trying to mock (in my case, C#). I salute the people who work on technical documentation. It was my first time ever including <code>code</code> element in my HTML.
+**Today's Progress**: I used a test driven development method... well kind of. I first wrote the skeleton HTML that would pass most of the tests of the project. Once I had the layout that passed 8 of the 10 tests, I started fleshing in the content. Since I still don't have enough real world practice on how to actually start working on designing a web page. I started with adding content for the footer and the container image. 
 
-**Thoughts:** No big struggle. But it took a while to simplify and shed off alot of content. 
+**Thoughts:** It was a big struggle deciding on where to start. I knew what I wanted to do but where do I start was the big question. Nevertheless, I started so Hoorah!!.
 
-**Link to work:** [Codepen.io](https://codepen.io/haley-dvlpr/pen/bJEpEX)
+**Link to work:** [Github](https://github.com/Benmuiruri/Wangari-Maathai-Tribute/commit/9e8d20813d3fd69c51335b961270f9b1ec29a95a)
 
 ### Day 2: April 3, 2019
 ##### (freeCodeCamp - Responsive Web Design Projects - Build a Technical Documentation Page: COMPLETED)
