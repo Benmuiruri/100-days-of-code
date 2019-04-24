@@ -1,11 +1,29 @@
 # 100 Days Of Code - Log
-Hi, I'm Haley! Welcome to my #100daysofcode journey. I am a self-taught Front-end web developer in the making. 😁💻
+Hi, My name is Ben but I like to call myself OptimizePrime (https://twitter.com/ed_kinging). Welcome to my #100daysofcode journey. This log contains entries of my journey to become a self-taught Full-stack web developer. 
 
-An important note to mention before I start with my first day on Github: I had already started the #100daysofcode challenge on Twitter. And as of April 2nd, 2019 I am at Day 11. However, it occurred to me that posting brief tweets about my daily progress would not help me reflect properly on what I've learned and what I've struggled with. I find this crucial to when the lessons become more complicated (i.e when Javascript and its frameworks are introduced). Since I already push my projects to Github, I thought I might as well fork the famous existing repository and log my progress here everyday. Currently, I am becoming more comfortable with HTML and CSS. My learning sources are:
-1. freeCodeCamp: I am currently finishing the Responsive Web Design projects.
-2. [The Complete 2019 Web Development Bootcamp by Angela Yu (Udemy)](https://www.udemy.com/the-complete-web-development-bootcamp/): I currently paused at Javascript (I haven't started it), I will once I receive the first certificate from freeCodeCamp.
+First off.. big shout out to Haley (https://github.com/haley-dvlpr) from whom I forked this repo, and who also has a well detailed Log I recommend people to use as a starting point. 
 
-I will continue with the old count on twitter only. For details about my progress in the last 10 days, check out my [twitter](https://twitter.com/haley_dvlpr) account (Pinned tweet). Let's start this challenge!
+So.... I am 27 years old guy who vowed to himself that by mid year (June/July) I will have completed the tutorials I need to get myself started on working on a real project towards the end of the year. From the beginning of the year I started my journey by completing the following five courses at https://codecademy.com/
+1. Introduction to Git 
+2. Introduction to HTML 
+3. Introduction to CSS
+4. Introduction to Javascript 
+5. Learn Javascipt. 
+
+With those courses done, I joined the famous Learn Enough Society (https://t.co/cdsJ2dLRqp) by Michael Hartl (https://twitter.com/mhartl) which in my opinion is one of the most complete way to learn how to be an all round developer. 
+At Learn Enough I did the tutorials for:
+1. The command line
+2. Git
+3. HTML 
+4. CSS and Layout 
+5. Javascript 
+6. Ruby 
+
+Just as I started the Ruby on Rails tutorial is when I stumbled on the 100 days of Code challenge. And it naturally became the real test to all the HTML, CSS and JavaScript I have learned so far. 
+
+And that is basically my story. So starting today, this log will contain my daily coding log. Let's Get it!! 
+
+
 
 ### Day 1: April 2, 2019
 ##### (freeCodeCamp - Responsive Web Design Projects - Build a Technical Documentation Page)
