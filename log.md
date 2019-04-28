@@ -34,29 +34,24 @@ And that is basically my story. So starting today, this log will contain my dail
 
 **Link to work:** [Github](https://github.com/Benmuiruri/Wangari-Maathai-Tribute/commit/9e8d20813d3fd69c51335b961270f9b1ec29a95a)
 
-### Day 2: April 3, 2019
-##### (freeCodeCamp - Responsive Web Design Projects - Build a Technical Documentation Page: COMPLETED)
+### Day 2: April 25, 2019
+##### (freeCodeCamp - Responsive Web Design Projects - Build a Tribute page)
 
-**Today's Progress**: So this was easy, and I liked the dark theme with the touch of pink. I found two pseudo class selectors useful today: <code>:not(:last-child)</code> and <code>:first-child</code>. I also learned about the pre element **(by accident, lol)**, and I wrapped my code inside it because I wanted to group multiple code lines and style them as one big <code>code</code> element. The pre element apparently shows the whitespace in the HTML doc by default. So according to this [Stackoverflow post](https://stackoverflow.com/questions/31753617/how-can-i-remove-leading-whitespace-in-my-pre-code-block-without-removing-in), whitespace can be removed by adding this property: <code>white-space: normal;</code>. So I did that.
+**Today's Progress**: Today I started working on the aesthetics of the page by creating the right layout. Yesterday (April 24, 2019) I wrote about not knowing where to start despite knowing what I want to do. Well as luck would have it I stumbled on this twitter post (https://twitter.com/acopycreative/status/1121046841607503873) by Ornella (https://twitter.com/acopycreative) I suggest giving her a follow she is awesome peeps to follow on this challenge. So anyway her post (if you have not checked it out) is how she sketched out a wireframe using pen and paper for her tribute page. Just like that she solved the *Where do I start* problem that I had. So I sketched my tribute page on piece of paper then knowing which divs I will have I started coding the divs and using flexboxes to design the layout. I also added an image that i will appear on the header. 
 
-**Thoughts:** I guess the code arrangement could use a fix and syntax highlighting could have been added, **but**, given that I don't know C# (yet), I didn't bother looking for extensions that would take care of that. Too soon.
+**Thoughts:** Doing challenges, reading tutorials, and all that is radically different from working on a project from scratch. It's challenging but... rewarding, once you learn how to think like a developer from all the tutorials you have done. 
 
 **Links to completed work:**   
-[Github Page](https://haley-dvlpr.github.io/FCC-Technical-Documentation/)  
-[Codepen.io](https://codepen.io/haley-dvlpr/pen/bJEpEX)
+[Github Page](https://github.com/Benmuiruri/Wangari-Maathai-Tribute/commit/c419ef5416912405c95708a4e9b172667a0a11b4)
 
-### Day 3: April 4, 2019
+### Day 3: April 26-27-28, 2019
 ##### (freeCodeCamp - Responsive Web Design Projects - Build a Personal Portfolio Webpage)
 
-**Today's Progress**: Today I spent about 2 hours just looking for that perfect portfolio layout/design. I guess I'm stressing about it being perfect and looking professional, even though I'm technically a web dev newbie. I also realized that I'm pretty sure I want to do UI/UX + Front end development. I'm interested in learning about interaction design and enhancing users' accessibility and satisfaction. Anyway, back to the portfolio. I barely wrote any code. Just a skeleton. Not even going to refer to its link but it's there in my repositories section. Here are some of the portfolio ideas that I liked so far:
+**Today's Progress**: Finally after 12 hours stretching from Wednesday to today Sunday, I have finished the FCC tribute page project. I am very excited that I have managed to complete the project. So excited to get on with the Survey form because I am finally getting the hang of things. 
 
-![portfolio sample](https://res.cloudinary.com/dzqqlj7am/image/upload/v1554415097/22.png)
+**Thoughts:** I have noticed I know how to move things around to get the layout I desire, but I need to read up on responsive design using rem,em, vh and the like. creating a responsive website is a MUST for any dev.
 
-![portfolio sample](https://res.cloudinary.com/dzqqlj7am/image/upload/v1554415097/24.png)
-
-![portfolio sample](https://res.cloudinary.com/dzqqlj7am/image/upload/v1554415097/20.png)
-
-I very much hope I figure out and finalize my portfolio's design by tomorrow afternoon. Can't wait for that FCC Responsive Web Design completion certificate!
+**Links to completed work:**  https://codepen.io/Benmuiruri/full/vMVoxX
 
 ### Day 4: April 5, 2019
 ##### (freeCodeCamp - Responsive Web Design Projects - Build a Personal Portfolio Webpage)
