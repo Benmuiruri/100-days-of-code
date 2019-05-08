@@ -44,7 +44,7 @@ And that is basically my story. So starting today, this log will contain my dail
 **Links to completed work:**   
 [Github Page](https://github.com/Benmuiruri/Wangari-Maathai-Tribute/commit/c419ef5416912405c95708a4e9b172667a0a11b4)
 
-### Day 3: April 26-27-28, 2019
+### Day 3-5: April 26-27-28, 2019
 ##### (freeCodeCamp - Responsive Web Design Projects - Build a Personal Portfolio Webpage)
 
 **Today's Progress**: Finally after 12 hours stretching from Wednesday to today Sunday, I have finished the FCC tribute page project. I am very excited that I have managed to complete the project. So excited to get on with the Survey form because I am finally getting the hang of things. 
@@ -53,14 +53,14 @@ And that is basically my story. So starting today, this log will contain my dail
 
 **Links to completed work:**  https://codepen.io/Benmuiruri/full/vMVoxX
 
-### Day 4: April 5, 2019
-##### (freeCodeCamp - Responsive Web Design Projects - Build a Personal Portfolio Webpage)
+### Day 6: May 4, 2019
+##### (freeCodeCamp - Responsive Web Design Projects - Build a Survey form)
 
-**Today's Progress**: I created the front part of my portfolio, with a bit of animation. I'm trying to go for a minimalist design here. Still didn't write the About Me section. Also I'm thinking about adding a scroll up transition (btw is that what they call it?) from the welcome section to the About Me. Anyway, this is what I have so far (minus media query):
+**Today's Progress**: After four days of no coding, I spent my saturday creating the skeleton of the survey page. The html is passing the FCC tests. So next week I need to work on the css to make the page complete.
 
-![portfolio sample](https://res.cloudinary.com/dzqqlj7am/image/upload/v1554492203/63.png)
+**Thoughts** writing HTML is the easy part, using css to style a page is the hardest part. I still dont know how to completely make a responsive site, but I will try to accomodate mobile screens in this survey project.
 
-**Link to work (Let me know what you think):** [Github Page](https://haley-dvlpr.github.io/Portfolio-Page/)
+**Link to work** [Github Page](https://github.com/Benmuiruri/fcc_survey_project/commit/fd10a8cb555b51e89e0ad80a73b214ac54926fe1)
 
 ### Day 5: April 6, 2019
 ##### (freeCodeCamp - Responsive Web Design Projects - Build a Personal Portfolio Webpage)
