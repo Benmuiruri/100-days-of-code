@@ -62,13 +62,15 @@ And that is basically my story. So starting today, this log will contain my dail
 
 **Link to work** [Github Page](https://github.com/Benmuiruri/fcc_survey_project/commit/fd10a8cb555b51e89e0ad80a73b214ac54926fe1)
 
-### Day 5: April 6, 2019
-##### (freeCodeCamp - Responsive Web Design Projects - Build a Personal Portfolio Webpage)
+### Day 7: May 14, 2019
+##### (freeCodeCamp - Responsive Web Design Projects - Build a Survey form)
 
-**Today's Progress**: I'm taking too long on this one, eh? Well, I've been busy.. with life. I got to attend a Women Techmakers event today (yay!), it was a great networking opportunity. I'm very tired and sleepy and I'm trying to present my 4 portfolio projects in a nice 2x2 grid. Using <code> display: grid; </code> was tricky. So I set the template using<code>grid-template-columns: repeat(2, 1fr);</code>. I need to know how I can clearly assign rows... unless it's somehow automatic (??). I'm also open to using flexbox, but I also want to control number of items per row. I think I'll have to introduce <code>calc()</code> property. Will definitely search on Youtube about the best method for my 2x2. Hoping to finalize my portfolio tomorrow.
+**Today's Progress**: I finally finished the survey form. Today I styled the input and the headers, added some images and voila it was done.
 
-**Link to work**: I'd rather not? It's a mess. 🙈
-.
+**Link to work**: https://codepen.io/Benmuiruri/pen/JqYbLd
+
+**Thoughts** I have been a bit distracted over the past two weeks with keeping up with daily coding. I have no excuses just myself to blame. Although, I have started to appreciate taking a break off coding for maybe a day, and also taking a break from the FCC projects to make progress in the Ruby on Rails Tutorial. I hope for a more fulfilling week. Peace out
+
 ### Day 6: April 7, 2019
 ##### (freeCodeCamp - Responsive Web Design Projects - Build a Personal Portfolio Webpage: COMPLETED)
 
