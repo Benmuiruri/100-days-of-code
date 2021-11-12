@@ -320,3 +320,37 @@ Here is to a more code-ful september, Peace out.
 
 **Link to work**[Intermediate Algorithm Scripting Exercises](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/#functional-programming)
 
+### Day 41: September 9, 2021 + Day 42: September 21, 2021 + Day 43: September 23, 2021
+##### Functional Programming and Intermediate Algorithm Scripting
+**Three day Progress**:
+
+I think I jinxed myself by saying that I would have a code-ful September, because I was only able to code 3 days in the whole of September. 
+
+Sigh. 
+
+
+### Day 44: October 7, 2021 + Day 45: October 12, 2021
+##### JavaScript Algorithms and Data Structures Projects
+**Two day Progress**:
+
+October was also not a great month, sigh. 
+I was only able to code for two days to complete the Javascript projects. 
+
+
+### Day 46: November 4, 2021 - Day 53: November 12, 2021
+##### Front End Development Libraries
+**Eight day Progress**:
+
+Finally after wasting two months, something finally changed in November that changed how I am approaching this 100-day-challenge. I realized that I am not just doing this challenge to look cool or to try and keep myself busy. I am actually doing this challenge because I want to change my future. I want to secure my future and my family's future by teaching myself how to code and become a software engineer. 
+
+I came across a quote that completely changed how I will approach this challenge and ultimately achieve my deams
+
+**"There is no PASSION to be found playing small - in settling for a life that is less than the one you KNOW you are CAPABLE of living!"**
+
+On November 4th I started the Front End Development Libraries section which includes Bootstrap, SASS, JQuery, React and Redux. 
+
+I completed Bootstrap, JQuery and SASS the easy stuff and got into React and Redux.
+
+**Thoughts**: React and Redux are beautiful frameworks. I love the whole idea of state, reducers, and action creators. It makes thinking about an App quite logical. I can see how to think about creaing a project. I cant wait to get started on a project once I finish learning React. 
+
+**Link to work**[Front End Development Libraries React](https://www.freecodecamp.org/learn/front-end-development-libraries/)
