@@ -354,3 +354,18 @@ I completed Bootstrap, JQuery and SASS the easy stuff and got into React and Red
 **Thoughts**: React and Redux are beautiful frameworks. I love the whole idea of state, reducers, and action creators. It makes thinking about an App quite logical. I can see how to think about creaing a project. I cant wait to get started on a project once I finish learning React. 
 
 **Link to work**[Front End Development Libraries React](https://www.freecodecamp.org/learn/front-end-development-libraries/)
+
+
+### Day 54: November 14, 2021
+##### Front End Development Libraries
+**One day Progress**:
+
+Sunday Funday!! 
+
+I'm sure we have all been there when you have that itch to finish something. That was me on Sunday, I just wanted to finish the React and Redux section. I did the section without any major challenges. 
+
+I am impressed how well I have grasped React. Maybe it is my destiny to work in React. Anyway I will find out how well I have grasped React in the upcoming challenges 
+
+**Thoughts** I will say it again, I really enjoyed learning react, I like its composability using Components and states. 
+
+**Link to work** [Front End Development Libraries React](https://www.freecodecamp.org/learn/front-end-development-libraries/react-and-redux/moving-forward-from-here)
