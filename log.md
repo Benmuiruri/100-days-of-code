@@ -369,3 +369,13 @@ I am impressed how well I have grasped React. Maybe it is my destiny to work in 
 **Thoughts** I will say it again, I really enjoyed learning react, I like its composability using Components and states. 
 
 **Link to work** [Front End Development Libraries React](https://www.freecodecamp.org/learn/front-end-development-libraries/react-and-redux/moving-forward-from-here)
+
+### Day 55: November 18, 2021
+##### Front End Development Libraries Projects
+**One day Progress**:
+
+Getting to work on the React challenges. I am getting the hang of it. I am really enjoying it 
+
+**Thoughts** Can't wait to finish the projects and put my React skills to work. 
+
+**Link to work** [Front End Development Libraries React](https://codepen.io/Benmuiruri/pen/yLoQbdr)
