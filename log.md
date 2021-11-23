@@ -379,3 +379,23 @@ Getting to work on the React challenges. I am getting the hang of it. I am reall
 **Thoughts** Can't wait to finish the projects and put my React skills to work. 
 
 **Link to work** [Front End Development Libraries React](https://codepen.io/Benmuiruri/pen/yLoQbdr)
+
+### Day 56: November 19, 2021 - Day 57: November 23 2021
+##### Front End Development Libraries Projects
+**Two day Progress**:
+
+On Novermber 19 I finished working on the Random Quote Generator React App. It was nice to see how to put parts of a React App together to get it to work. 
+
+It's working fine but I was not able to make the background color change with each quote, I will circle back to that feature sometime this week 
+
+
+**Link to work** [Random Quote Generator] (https://codepen.io/Benmuiruri/full/yLoQbdr)
+
+On November 23 I started working on the Markdown Preview App. I got most of it working but it is not passing the tests. I will check that tomorrow as I also fix the background color feature on the Random Quote Generator. 
+
+**Link to work** [Markdown Previewer](https://codepen.io/Benmuiruri/pen/OJjYxVB)
+
+**Thoughts** While working on the two projects so far, I have learned the basics of a React App. 
+- I have learned how the React JS, CSS and JSX code work together. 
+- I have learned how the state, and the render method work together to display values to the DOM.
+ Still early days but enjoying the journey so far. 
