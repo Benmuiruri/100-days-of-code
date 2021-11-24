@@ -399,3 +399,10 @@ On November 23 I started working on the Markdown Preview App. I got most of it w
 - I have learned how the React JS, CSS and JSX code work together. 
 - I have learned how the state, and the render method work together to display values to the DOM.
  Still early days but enjoying the journey so far. 
+
+### Day 58: November 18, 2021
+##### Front End Development Libraries Projects
+**One day Progress**:
+
+Today I started working on the Drum Machine project. Still early days, I set up the React component, I will flesh out the functionality tomorrow. 
+
