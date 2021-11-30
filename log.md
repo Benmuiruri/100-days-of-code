@@ -415,7 +415,17 @@ I finished working on the Drum Machine project which was an interesting challeng
 - My main thought working on the Drum Machine project is I got to try out new concepts such as create ref, and working with event listeners, which I can now practice more to understand them even further. 
 
 
-**Link to work** [Front End Development Libraries React](https://codepen.io/Benmuiruri/pen/yLoQbdr)
+**Link to work** [Front End Development Libraries React](https://codepen.io/Benmuiruri/full/BadgdXx)
+
+### Day 60: November 30, 2021
+##### Front End Development Libraries Projects
+**One day Progress**:
+
+I started working on the Javascript calculator project. First thing today was creating the layout then tommorow adding in the functionality to make the calculator work
+
+**Thoughts** Although I am still learning I need to start trying to make a layout stick rather than following a tutorial that shows how to do everything. I should be able to create a simple CSS layout on my own. But I will get there. I am on day 60 of 100. Not bad, it is important to celebrate the small wins in life. 
+
+**Link to work** [Front End Development Libraries React](https://codepen.io/Benmuiruri/pen/NWaWyjw)
 
 
 
