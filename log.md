@@ -400,9 +400,23 @@ On November 23 I started working on the Markdown Preview App. I got most of it w
 - I have learned how the state, and the render method work together to display values to the DOM.
  Still early days but enjoying the journey so far. 
 
-### Day 58: November 18, 2021
+### Day 58: November 24, 2021 - Day 59: November 27 2021
 ##### Front End Development Libraries Projects
-**One day Progress**:
+**Two day Progress**:
 
-Today I started working on the Drum Machine project. Still early days, I set up the React component, I will flesh out the functionality tomorrow. 
+Today, on the 23rd of Nov I started working on the Drum Machine project. Still early days, I set up the React component, I will flesh out the functionality tomorrow.
+
+I finished working on the Drum Machine project which was an interesting challenge because it really needed someone to think outside the box. 
+
+**Thoughts** I learned a few things while working on the Drum Machine project 
+- I still haven't learned how to think about components. When I am starting a project, how do I decide which functionalities should be in the same component and which should be in a different component 
+- I got to work with React's Create Ref, but I need more practice to understand how they really work. 
+- I also got to work with event listeners in a react component. 
+- My main thought working on the Drum Machine project is I got to try out new concepts such as create ref, and working with event listeners, which I can now practice more to understand them even further. 
+
+
+**Link to work** [Front End Development Libraries React](https://codepen.io/Benmuiruri/pen/yLoQbdr)
+
+
+
 
