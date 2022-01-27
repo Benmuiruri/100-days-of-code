@@ -425,6 +425,8 @@ I started working on the Javascript calculator project. First thing today was cr
 
 **Thoughts** Although I am still learning I need to start trying to make a layout stick rather than following a tutorial that shows how to do everything. I should be able to create a simple CSS layout on my own. But I will get there. I am on day 60 of 100. Not bad, it is important to celebrate the small wins in life. 
 
+Quick update, just after saying that I decided to do a calculator layout for Ubuntu rather than for iphone and I was able to do that... yeey me.
+
 **Link to work** [Front End Development Libraries React](https://codepen.io/Benmuiruri/pen/NWaWyjw)
 
 
