@@ -429,6 +429,21 @@ Quick update, just after saying that I decided to do a calculator layout for Ubu
 
 **Link to work** [Front End Development Libraries React](https://codepen.io/Benmuiruri/pen/NWaWyjw)
 
+### Day 61: January 27, 2022
+##### Life Update
+**One day Progress**:
+
+Ohh boy, where do I start... Since I last logged my progress in the #100DaysOfCode, things in my journey to become a software engineer took a turn for the better. I spent the 2020 and 2021 completing the learn enough turorial and the free code camp tutorial. At the end of 2021, I made decided that I would not stay in tutorial hell anymore. 
+
+So I asked a question on FreeCodeCamp's Forum for advice on how to get out of tutorial hell. Most people responded by urging me to start building projects in my portfolio and get some experience building things. 
+
+At the same time, I saw someone I know on Twitter share that she got a job after completing Microverse coding bootcamp. I did some research about the bootcamp and decided even though it is expensive, that was the kind of push I was looking for. 
+
+I know I have the work ethic to become a software engineer, but I just dont know the path to get there. Therefore, I applied to Microverse and I was lucky enough to get in. So now its upto me to put in the work at Microverse, push 110% until the end of 2022 to become a software engineer by the end of the year.
+
+On that note, I have been preparing for the bootcamp, I don't know why I was not logging my 100 days. Anyway here is day 61, I was creating the Youtube Mock web page from the Odin Project. 
+**Link to work** [Github Commit](https://github.com/Benmuiruri/enrollment-bootcamp/commit/45c7a9a98c8a6d9779566d5936859b63b0441f84)
+
 
 
 
