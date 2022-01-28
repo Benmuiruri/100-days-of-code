@@ -444,6 +444,13 @@ I know I have the work ethic to become a software engineer, but I just dont know
 On that note, I have been preparing for the bootcamp, I don't know why I was not logging my 100 days. Anyway here is day 61, I was creating the Youtube Mock web page from the Odin Project. 
 **Link to work** [Github Commit](https://github.com/Benmuiruri/enrollment-bootcamp/commit/45c7a9a98c8a6d9779566d5936859b63b0441f84)
 
+### Day 62: January 28, 2022
+##### Microverse Enrollment Bootcamp
+**One day Progress**:
 
+I am back! Today I continued working on the Mock YouTube page from the Odin Project. I added content and styled the side bar and the video info section. I am going to finish that tomorrow. Until then, Peace Out!.
 
+**Link to work** [Github Commit](https://github.com/Benmuiruri/enrollment-bootcamp/pull/5/commits/1562fac0968e447ef6dff984393e06baf9596644)
+
+**Thoughts**: I am designing CSS without a plan, I need to really grasp CSS so that when I want to move an element I know whether I want to use padding or margin. Currently I am just winging it, though it works out in the end. I am genuinely proud that I can create a Mock YouTube page that really looks like a YouTube video page. 
 
