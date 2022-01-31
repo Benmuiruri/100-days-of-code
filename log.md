@@ -454,3 +454,15 @@ I am back! Today I continued working on the Mock YouTube page from the Odin Proj
 
 **Thoughts**: I am designing CSS without a plan, I need to really grasp CSS so that when I want to move an element I know whether I want to use padding or margin. Currently I am just winging it, though it works out in the end. I am genuinely proud that I can create a Mock YouTube page that really looks like a YouTube video page. 
 
+
+### Day 63: January 31, 2022
+##### Microverse Enrollment Bootcamp
+**One day Progress**:
+
+After the weekend break, I continued with working on the Mock YouTube page from the Odin Project. I styled the Video description section and started on the comment section. I did not get to code as much today, I had some errands to run.
+
+I also connected the Repo to the Github Pages
+
+**Link to work** [Github Pages](https://www.benkiarie.live/enrollment-bootcamp/)
+
+**Thoughts**: I am starting to write CSS a little bit more intuitively. I am learnign to anticipate what visual changes I will see when I write some CSS. Practice Practice is the game. 
