@@ -466,3 +466,15 @@ I also connected the Repo to the Github Pages
 **Link to work** [Github Pages](https://www.benkiarie.live/enrollment-bootcamp/)
 
 **Thoughts**: I am starting to write CSS a little bit more intuitively. I am learnign to anticipate what visual changes I will see when I write some CSS. Practice Practice is the game. 
+
+### Day 64: February 1, 2022
+##### Microverse Enrollment Bootcamp
+**One day Progress**:
+
+Happy new Month! I completed the html and css of the comment section
+
+**Link to work** [Github Pages](https://www.benkiarie.live/enrollment-bootcamp/)
+
+**Thoughts**: 
+- I am doing things quite unorthodox. When I start the microverse program, I need to learn the proper way of doing things. For instance, today I learned that you are supposed to wrap a button in an a tag. Also I am using whatever means to style things. For instance, i wanted to center the span inside the button to have it centered in the button. I moved the words around using padding but I feel there is a better way to use flexbox instead. I also have a lot of CSS repetition, but I will clean up the code when I finish the project. 
+- Anyway for now I'll use my shortcuts, but soon I need to start writing production level code. 
