@@ -478,3 +478,15 @@ Happy new Month! I completed the html and css of the comment section
 **Thoughts**: 
 - I am doing things quite unorthodox. When I start the microverse program, I need to learn the proper way of doing things. For instance, today I learned that you are supposed to wrap a button in an a tag. Also I am using whatever means to style things. For instance, i wanted to center the span inside the button to have it centered in the button. I moved the words around using padding but I feel there is a better way to use flexbox instead. I also have a lot of CSS repetition, but I will clean up the code when I finish the project. 
 - Anyway for now I'll use my shortcuts, but soon I need to start writing production level code. 
+
+### Day 65: February 2, 2022 - Day 66: February 3, 2022
+##### Microverse Enrollment Bootcamp
+**Two day Progress**:
+
+I finally completed the Mock Youtube Video Page from the Odin Project on February 2. However, as I noted previously, I was writing very unorthodox html code. So on February 3 I started refactorig the code to make it a bit cleaner. 
+
+**Link to work** [Github Pages](https://www.benkiarie.live/enrollment-bootcamp/)
+
+**Thoughts**: 
+I started applying what I had said about putting divs inside divs, with a plan. Then styling the inner div not the wrapper of a section. I think that makes the code cleaner, but time will tell. Tomorrow I will finish the refactoring and call complete the enrollment bootcamp at that point. 
+My Microverse journey starts on Monday, I think I will start a new 100-Days log on monday with a better much improved log format. Till then, Peace out. 
